@@ -21,11 +21,11 @@ const props = withDefaults(defineProps<IProps>(), {
 .button {
   position: relative;
   display: inline-flex;
-  gap: 8px;
+  gap: 15px;
   align-items: center;
   justify-content: center;
-  height: 40px;
-  padding: 16px 32px;
+  height: 69px;
+  padding: 44px 32px;
   font-size: 1rem;
   line-height: 1.5;
   color: var(--color-white);
